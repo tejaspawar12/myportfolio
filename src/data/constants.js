@@ -8,7 +8,7 @@ export const Bio = {
       "Prospective AI Professional",
     ],
     description:
-      "I am highly motivated and versatile Master's student in Data Science at University of Delaware, always eager to take on new challenges. I'm passionate about harnessing the power of data to solve complex problems and unlock valuable insights.With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+      "I -------------- am highly motivated and versatile Master's student in Data Science at University of Delaware, always eager to take on new challenges. I'm passionate about harnessing the power of data to solve complex problems and unlock valuable insights.With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/tejaspawar12",
     resume:
       "https://drive.google.com/file/d/1AImlaqqMoJHaOUxmfU8_QAUv9Vs4IPCL/view?usp=sharing",
